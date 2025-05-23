@@ -8,7 +8,7 @@
 - [🎯 Key Features](#-key-features)
 - [🚀 Getting Started](#-getting-started)
 - [🖼️ Dashboard Preview](#️-dashboard-preview)
-- [📹 Demo](#-demo)
+- [📹 Live Dashboard Demo](#-live-dashboard-demo)
 
 
 ## 📌 Project Overview
@@ -62,3 +62,9 @@ Enhanced with interactive slicers and a sleek dark-themed design inspired by Net
 3. Use slicers to explore the data interactively.
 4. Customize or expand the dashboard as needed.
 ## 🖼️ Dashboard Preview
+![Netflix Dashboard Screenshot](netflix%20dashboard.jpeg)
+## 📹 Live Dashboard Demo
+
+[🔗 View the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoi...)
+
+> *Note: This dashboard is hosted on Power BI Service and is publicly viewable.*
